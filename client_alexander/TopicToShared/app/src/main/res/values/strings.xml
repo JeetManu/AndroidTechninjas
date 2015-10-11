@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TopicToShared</string>
+    <string name="action_settings">Settings</string>
+    <string name="Add_topic_menu">Add Topic</string>
+</resources>
